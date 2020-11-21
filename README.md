@@ -1,2 +1,1 @@
-# -lgebra-Lineal-UAI
-2020-2
+# Álgebra Lineal UAI (2020-2)
